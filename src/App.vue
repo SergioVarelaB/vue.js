@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>que tranza bandita</h1>
+    <h1>que tranza bandita mamalona</h1>
     <Test/>
   </div>
 </template>
